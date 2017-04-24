@@ -1,0 +1,24 @@
+2017-04-24 10:08:39,717 - BrowserEngine - INFO - You had select Chrome browser.
+2017-04-24 10:08:39,717 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2017-04-24 10:08:43,901 - BrowserEngine - INFO - Starting Chrome browser.
+2017-04-24 10:08:47,092 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-04-24 10:08:48,339 - BrowserEngine - INFO - Maximize the current window.
+2017-04-24 10:08:48,345 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-04-24 10:08:48,427 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2017-04-24 10:08:48,641 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-04-24 10:08:48,717 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-04-24 10:08:48,818 - BasePage - INFO - The element '  ' was clicked.
+2017-04-24 10:08:51,062 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-04-24 10:08:51,071 - BasePage - INFO - Current page title is selenium_百度搜索
+2017-04-24 10:08:51,098 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2017-04-24 10:08:51,194 - BasePage - INFO - Had type ' python ' in inputBox
+2017-04-24 10:08:51,230 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-04-24 10:08:51,299 - BasePage - INFO - The element '  ' was clicked.
+2017-04-24 10:08:53,450 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-04-24 10:08:56,500 - BrowserEngine - INFO - You had select Chrome browser.
+2017-04-24 10:08:56,500 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2017-04-24 10:09:00,181 - BrowserEngine - INFO - Starting Chrome browser.
+2017-04-24 10:09:03,226 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2017-04-24 10:09:04,421 - BrowserEngine - INFO - Maximize the current window.
+2017-04-24 10:09:04,423 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-04-24 10:09:04,430 - BasePage - INFO - Current page title is 百度一下，你就知道
